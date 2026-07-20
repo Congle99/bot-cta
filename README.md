@@ -73,12 +73,6 @@ node index.js
 
 ---
 
-## 📸 Demo
-
-*(Thêm ảnh/GIF: gửi ảnh CTA cho bot → bot trả kết quả danh sách đã đọc được → lệnh xem báo cáo % tham gia trong tháng)*
-
----
-
 ## 📌 Ghi chú phát triển
 
 Bot được xây dựng để hỗ trợ quản lý guild trong Albion Online, giảm thời gian điểm danh thủ công từ ảnh chụp màn hình sự kiện CTA.
